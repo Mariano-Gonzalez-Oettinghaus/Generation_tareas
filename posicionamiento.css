@@ -1,0 +1,26 @@
+.box {
+/* display: inline-block */
+    width: 100px; /*Ancho*/
+    height: 100px;/*Altura*/
+    background: pink; /*Fondo*/
+    color: white;/*Color texto*/
+}
+
+
+#two {
+    position: absolute;
+    top: 23px;
+    left: 29px;
+    background: red ;
+
+}
+
+
+#three {
+
+    position: absolute;
+    bottom: 180px;
+    left: 150px;
+    background: rgb(132, 0, 255) ;
+
+}
